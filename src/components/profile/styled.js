@@ -49,7 +49,7 @@ export const WrapperUserGeneric = styled.div`
 
   a {
     font-size: 18px;
-    color: blue;
+    color:#3182ce;
     font-weight: bold;
   }
 `;
